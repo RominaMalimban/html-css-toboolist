@@ -11,8 +11,24 @@ body{
     background-color: #cccccc87;
 }
 
-
 /* regole header */
+header{
+    background-color: #fff;
+    padding: 10px;
+}
+
+header h1{
+    display: inline-block;
+    font-size: 40px;
+    padding: 10px;
+}
+
+/* header img{
+    
+    
+    vertical-align: middle;
+} */
+
 
 
 /* regole main */
