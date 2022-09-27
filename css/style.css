@@ -1,6 +1,6 @@
 /* regole generali */
 *{
-    margin: 0;
+    /* margin: 0; */
     padding: 0;
     box-sizing: border-box;
 }
@@ -23,12 +23,33 @@ header h1{
     padding: 10px;
 }
 
-/* header img{
+/* regole corpo principale */
+.container{
+    width: 900px;
+    margin: 30px 0;
+    background-color: #fff;
     
-    
-    vertical-align: middle;
-} */
+}
 
+.buttonArea{
+    border-bottom: 2px solid #cccccc87;
+    padding: 10px 40px;
+}
 
+#addTask{
+    background-color: #1b9abe;
+    border-radius: 5px;
+    border-color:  #1b9abe ;
+    color: #fff;
+    width: 70px;
+    padding: 5px;
+}
 
-/* regole main */
+#addSection{
+    width: 95px;
+    padding: 5px;
+    border-radius: 5px;
+    border-color:#ccc;
+    color: #cccccc;
+    background-color: white;
+}
