@@ -57,23 +57,9 @@ section{
     padding: 10px 40px;
 }
 
-.check{
-    width: 20px;
-    height: 20px;
-    border: 2px solid green;
-    border-radius: 50%;
-    line-height: 20px;
-    vertical-align: middle;
-    margin-right: 5px;
+section h3{
+    font-size: 20px;
 }
-
-.blue{
-    background-color: #1b9abe;
-    color: #fff;
-    border-radius: 10px;
-    padding: 5px;
-}
-
 
 .list{
     margin: 30px 0;
@@ -83,48 +69,56 @@ section{
     margin: 20px 0;
 }
 
-.violet{
-    background-color:#a60ba6;
-    color: #fff;
-    border-radius: 10px;
-    padding: 5px;
-}
-
-.cross{
+.sign{
     width: 20px;
     height: 20px;
-    border: 2px solid red;
     border-radius: 50%;
     line-height: 20px;
     vertical-align: middle;
     margin-right: 5px;
+}
+
+.check{
+    border: 2px solid green;
+}
+
+.cross{
+    border: 2px solid red;
     padding: 2px;
+}
+
+.label{
+    color: #fff;
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-size: 12px;
+}
+
+.blue{
+    background-color: #1b9abe;
+}
+
+.violet{
+    background-color:#a60ba6;
 }
 
 .green{
     background-color:green;
-    color: #fff;
-    border-radius: 10px;
-    padding: 5px;
 }
 
 .orange{
     background-color:orange;
-    color: #fff;
-    border-radius: 10px;
-    padding: 5px;
 }
 
 .pink{
     background-color:#e55db8;
-    color: #fff;
-    border-radius: 10px;
-    padding: 5px;
 }
 
 .lightgreen{
     background-color:rgb(144, 255, 47);
-    color: #fff;
-    border-radius: 10px;
-    padding: 5px;
 }
+
+
+
+
+
