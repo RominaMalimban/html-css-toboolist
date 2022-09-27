@@ -40,7 +40,7 @@ header h1{
 
 .buttonArea{
     border-bottom: 2px solid #cccccc87;
-    padding: 10px 40px;
+    padding: 15px 40px;
 }
 
 .btn{
@@ -50,20 +50,24 @@ header h1{
 
 #addTask{
     background-color: #1b9abe;
-    border-color:  #1b9abe ;
+    border: 1px solid #1b9abe ;
     color: #fff;
     width: 70px;
 }
 
 #addSection{
     width: 95px;
-    border-color:#ccc;
+    border: 2px solid #ccc;
     color: #cccccc;
     background-color: white;
 }
 
 section{
     padding: 10px 40px;
+}
+
+section span{
+    font-weight: 600;
 }
 
 section h3{
