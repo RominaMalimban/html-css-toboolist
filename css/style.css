@@ -57,18 +57,59 @@ section{
     padding: 10px 40px;
 }
 
-#check{
+.check{
     width: 20px;
     height: 20px;
     border: 2px solid green;
     border-radius: 50%;
     line-height: 20px;
     vertical-align: middle;
+    margin-right: 5px;
 }
 
 .blue{
-    /* display: inline-block; */
     background-color: #1b9abe;
+    color: #fff;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+
+.list{
+    margin: 30px 0;
+}
+
+.toDo{
+    margin: 20px 0;
+}
+
+.violet{
+    background-color:#a60ba6;
+    color: #fff;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.cross{
+    width: 20px;
+    height: 20px;
+    border: 2px solid red;
+    border-radius: 50%;
+    line-height: 20px;
+    vertical-align: middle;
+    margin-right: 5px;
+    padding: 2px;
+}
+
+.green{
+    background-color:green;
+    color: #fff;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.orange{
+    background-color:orange;
     color: #fff;
     border-radius: 10px;
     padding: 5px;
