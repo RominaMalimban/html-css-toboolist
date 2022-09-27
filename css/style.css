@@ -1,6 +1,6 @@
 /* regole generali */
 *{
-    /* margin: 0; */
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
@@ -26,9 +26,8 @@ header h1{
 /* regole corpo principale */
 .container{
     width: 900px;
-    margin: 30px 0;
+    margin: 30px auto;
     background-color: #fff;
-    
 }
 
 .buttonArea{
@@ -52,4 +51,25 @@ header h1{
     border-color:#ccc;
     color: #cccccc;
     background-color: white;
+}
+
+section{
+    padding: 10px 40px;
+}
+
+#check{
+    width: 20px;
+    height: 20px;
+    border: 2px solid green;
+    border-radius: 50%;
+    line-height: 20px;
+    vertical-align: middle;
+}
+
+.blue{
+    /* display: inline-block; */
+    background-color: #1b9abe;
+    color: #fff;
+    border-radius: 10px;
+    padding: 5px;
 }
