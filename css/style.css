@@ -114,3 +114,17 @@ section{
     border-radius: 10px;
     padding: 5px;
 }
+
+.pink{
+    background-color:#e55db8;
+    color: #fff;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.lightgreen{
+    background-color:rgb(144, 255, 47);
+    color: #fff;
+    border-radius: 10px;
+    padding: 5px;
+}
