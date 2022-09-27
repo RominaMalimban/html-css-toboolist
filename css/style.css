@@ -35,19 +35,20 @@ header h1{
     padding: 10px 40px;
 }
 
+.btn{
+    padding: 5px;
+    border-radius: 5px
+}
+
 #addTask{
     background-color: #1b9abe;
-    border-radius: 5px;
     border-color:  #1b9abe ;
     color: #fff;
     width: 70px;
-    padding: 5px;
 }
 
 #addSection{
     width: 95px;
-    padding: 5px;
-    border-radius: 5px;
     border-color:#ccc;
     color: #cccccc;
     background-color: white;
@@ -117,8 +118,3 @@ section h3{
 .lightgreen{
     background-color:rgb(144, 255, 47);
 }
-
-
-
-
-
